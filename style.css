@@ -150,6 +150,12 @@ footer {
     font-size: 0.9rem;
 }
 
+.active-highlight {
+    background-color: #f0f8ff;
+    border: 2px solid #007BFF;
+    transition: all 0.3s ease;
+}
+
 @media (max-width: 992px) {
     .img2 {
         float: none;
